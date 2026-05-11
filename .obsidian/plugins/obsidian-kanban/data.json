@@ -1,0 +1,32 @@
+{
+  "show-checkboxes": false,
+  "tag-colors": [],
+  "full-list-lane-width": true,
+  "move-tags": false,
+  "move-dates": true,
+  "date-colors": [
+    {
+      "isBefore": true,
+      "color": "#fca5a5"
+    },
+    {
+      "direction": "after",
+      "distance": 3,
+      "unit": "days",
+      "color": "#fdba74"
+    },
+    {
+      "isAfter": true,
+      "color": "#86efac"
+    }
+  ],
+  "new-line-trigger": "enter",
+  "hide-card-count": false,
+  "lane-width": 450,
+  "show-relative-date": true,
+  "date-picker-week-start": 1,
+  "tag-sort": [],
+  "show-view-as-markdown": true,
+  "show-board-settings": true,
+  "card-template": "Templates/kanban-card.md"
+}

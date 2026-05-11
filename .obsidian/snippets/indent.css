@@ -1,0 +1,7 @@
+.kanban-plugin__markdown-preview-wrapper > div > ul {
+  padding-left: 1em !important;
+}
+
+.kanban-plugin__markdown-preview-wrapper > div > ul > li {
+  margin: 0 !important;
+}

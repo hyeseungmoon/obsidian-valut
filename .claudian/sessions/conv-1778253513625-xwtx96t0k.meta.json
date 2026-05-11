@@ -1,0 +1,23 @@
+{
+  "id": "conv-1778253513625-xwtx96t0k",
+  "providerId": "claude",
+  "title": "Write arbitrary content",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778253513629,
+  "updatedAt": 1778311382044,
+  "lastResponseAt": 1778253779270,
+  "sessionId": "9e94c61a-ccc2-400e-b613-2a34d294d635",
+  "providerState": {
+    "providerSessionId": "9e94c61a-ccc2-400e-b613-2a34d294d635"
+  },
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0,
+    "contextWindowIsAuthoritative": true
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "templateFolder": "Templates",
+  "showInlineTitle": true,
+  "readableLineLength": true,
+  "showIndentGuide": true,
+  "foldHeading": true,
+  "tabSize": 4,
+  "smartIndentList": true,
+  "autoPairBrackets": false,
+  "spellcheck": false,
+  "showLineNumber": false,
+  "promptDelete": false
+}

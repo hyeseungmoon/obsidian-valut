@@ -1,0 +1,5 @@
+/* Reduce padding between card title and content */
+.kanban-plugin__item-title-wrapper {
+  padding-block: 2px !important;
+  padding-inline: 0px !important;
+}

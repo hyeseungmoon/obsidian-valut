@@ -1,0 +1,12 @@
+{
+  "cssTheme": "Minimal",
+  "translucency": false,
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "headings"
+  ],
+  "baseFontSize": 16,
+  "showViewHeader": false,
+  "showRibbon": true,
+  "accentColor": "#0084ff"
+}

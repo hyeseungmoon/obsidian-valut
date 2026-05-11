@@ -1,0 +1,62 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiArchive",
+      "LiFolder",
+      "LiBookTemplate",
+      "LiFile",
+      "LiTemplaterIcon"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [
+      {
+        "rule": ".",
+        "icon": "LiFolder",
+        "for": "folders",
+        "order": 0
+      },
+      {
+        "rule": ".",
+        "icon": "LiFile",
+        "for": "files",
+        "order": 1
+      },
+      {
+        "rule": "Templates",
+        "icon": "LiBookTemplate",
+        "for": "everything",
+        "order": 2,
+        "useFilePath": true
+      }
+    ],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": false,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "Kanban Board.md": "LiKanbanSquare",
+  "Templates": "LiBookTemplate",
+  "Templates/기본 노트.md": "LiBookTemplate",
+  "Archive": "LiArchive",
+  "Project": "LiFolder"
+}
